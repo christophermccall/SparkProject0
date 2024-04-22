@@ -1,4 +1,8 @@
 env.py
 test.json
+top_vids0.json
+top_vids1.json
+top_vids2.json
+top_vids3.json
 .venv
 .venv/lib/python3.12/site-packages/pyspark/jars/rocksdbjni-8.3.2.jar
